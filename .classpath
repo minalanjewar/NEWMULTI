@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/5"/>
+	<classpathentry kind="src" path="app/src/main/java"/>
+	<classpathentry kind="src" path="app/src/test/java"/>
+	<classpathentry kind="src" path="util/src/main/java"/>
+	<classpathentry kind="src" path="util/src/test/java"/>
+	<classpathentry kind="lib" path="C:/JIRA/lib/rt.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_181/jre/lib/charsets.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_181/jre/lib/deploy.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_181/jre/lib/javaws.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_181/jre/lib/jce.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_181/jre/lib/jfr.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_181/jre/lib/jfxswt.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_181/jre/lib/jsse.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_181/jre/lib/management-agent.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_181/jre/lib/plugin.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_181/jre/lib/resources.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/Java/jdk1.8.0_181/jre/lib/rt.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cw/Downloads/org.apache.commons.io.jar"/>
+	<classpathentry kind="lib" path="C:/Users/cw/Downloads/common-lang3.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
